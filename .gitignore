@@ -1,0 +1,26 @@
+# Node
+node_modules
+
+# Truffle
+build
+
+# OpenZeppelin
+.openzeppelin/unknown-*.json
+
+# VS Code
+.vscode
+
+# Distribution / packaging
+build/
+
+# Environments
+.env
+.env_dev
+.env_live
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+scripts/metadata_cache
